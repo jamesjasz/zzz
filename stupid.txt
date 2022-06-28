@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hello guys my name is James Jasz
-=======
-hello guys my name is James
->>>>>>> 8ddf1d5e138ebfa317bec4acd99f16d9584008cf
